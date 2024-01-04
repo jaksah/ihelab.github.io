@@ -4,7 +4,7 @@ import localFont from 'next/font/local'
 const montserratAlt1 = localFont({
     src: [
       {
-        path: './fonts/MontserratAlt1/MontserratAlt1-Light.woff2',
+        path: '../fonts/MontserratAlt1/MontserratAlt1-Light.woff2',
         weight: '400',
         style: 'normal',
       },
